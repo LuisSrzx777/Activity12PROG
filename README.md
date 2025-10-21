@@ -20,27 +20,18 @@ Permite la administración completa de libros, usuarios, préstamos y devolucion
 👨‍💻 Funcionalidades por rol
 🛠️ Administrador
 
-Registrar nuevos libros
-
-Registrar usuarios y administradores
-
-Listar libros, usuarios y préstamos
-
-Visualizar el estado de los préstamos
-
-Cerrar sesión
+- Registrar nuevos libros
+- Registrar usuarios y administradores
+- Listar libros, usuarios y préstamos
+- Visualizar el estado de los préstamos
+- Cerrar sesión
 
 📘 Usuario
-
-Listar libros disponibles
-
-Registrar un préstamo
-
-Ver sus préstamos activos
-
-Devolver libros
-
-Cerrar sesión
+- Listar libros disponibles
+- Registrar un préstamo
+- Ver sus préstamos activos
+- Devolver libros
+- Cerrar sesión
 
 🔒 Seguridad implementada
 
