@@ -34,11 +34,7 @@ Permite la administración completa de libros, usuarios, préstamos y devolucion
 - Cerrar sesión
 
 🔒 Seguridad implementada
-
-Contraseñas cifradas con hashlib.sha256
-
-Evita inyecciones SQL mediante consultas parametrizadas (%s)
-
-Validaciones de tipo y limpieza de entradas de usuario
-
-Control de roles: evita acceso no autorizado a funciones administrativas
+- Contraseñas cifradas con hashlib.sha256
+- Evita inyecciones SQL mediante consultas parametrizadas (%s)
+- Validaciones de tipo y limpieza de entradas de usuario
+- Control de roles: evita acceso no autorizado a funciones administrativas
