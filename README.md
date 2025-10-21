@@ -17,4 +17,37 @@ Permite la administración completa de libros, usuarios, préstamos y devolucion
 - 🛡️ **Uso de consultas parametrizadas** para máxima seguridad
 
 ---
+👨‍💻 Funcionalidades por rol
+🛠️ Administrador
 
+Registrar nuevos libros
+
+Registrar usuarios y administradores
+
+Listar libros, usuarios y préstamos
+
+Visualizar el estado de los préstamos
+
+Cerrar sesión
+
+📘 Usuario
+
+Listar libros disponibles
+
+Registrar un préstamo
+
+Ver sus préstamos activos
+
+Devolver libros
+
+Cerrar sesión
+
+🔒 Seguridad implementada
+
+Contraseñas cifradas con hashlib.sha256
+
+Evita inyecciones SQL mediante consultas parametrizadas (%s)
+
+Validaciones de tipo y limpieza de entradas de usuario
+
+Control de roles: evita acceso no autorizado a funciones administrativas
