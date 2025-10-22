@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="Captura de pantalla (34)" src="https://github.com/user-attachments/assets/a391458f-b9b9-462e-bbcd-0257a9e79369" />
 # 📚 Sistema de Biblioteca en Python y MySQL
 
 Este proyecto es un **Sistema de Gestión de Biblioteca** desarrollado en **Python 3** con conexión a una base de datos **MySQL**.  
